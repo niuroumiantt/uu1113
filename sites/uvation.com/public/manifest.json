@@ -1,0 +1,17 @@
+{
+    "name": "Uvation",
+    "short_name": "Uvation",
+    "description": "Explore Uvation's cutting-edge technology solutions that drive innovation across industries. Partner with us to transform your business for the digital era.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2570fe",
+    "icons": [
+      {
+        "src": "https://cdn.uvation.com/marketing/public/logo.svg",
+        "sizes": "35x35",
+        "type": "image/svg"
+      }
+    ]
+  }
+  

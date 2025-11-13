@@ -1,0 +1,4750 @@
+{
+  "base_dir": "/Users/yidian/code/traeuvation/sites/uvation.com/public",
+  "base_url": "http://localhost:5504/",
+  "generated_at": 1762832884,
+  "pages": [
+    {
+      "path": "/",
+      "url": "http://localhost:5504/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 77
+    },
+    {
+      "path": "/12065/",
+      "url": "http://localhost:5504/12065/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 57
+    },
+    {
+      "path": "/[object Object]/",
+      "url": "http://localhost:5504/[object Object]/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 57
+    },
+    {
+      "path": "/about/",
+      "url": "http://localhost:5504/about/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/abouthistory/",
+      "url": "http://localhost:5504/abouthistory/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 68
+    },
+    {
+      "path": "/aerospace/",
+      "url": "http://localhost:5504/aerospace/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 63
+    },
+    {
+      "path": "/analytics/",
+      "url": "http://localhost:5504/analytics/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/application/",
+      "url": "http://localhost:5504/application/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 64
+    },
+    {
+      "path": "/articles/",
+      "url": "http://localhost:5504/articles/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/10-cybersecurity-hygiene-essentials-to-keep-your-company-safe/",
+      "url": "http://localhost:5504/articles/10-cybersecurity-hygiene-essentials-to-keep-your-company-safe/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/2022-trends-analysis-heres-whats-next-for-enterprise-digital-transformation/",
+      "url": "http://localhost:5504/articles/2022-trends-analysis-heres-whats-next-for-enterprise-digital-transformation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/3-infrastructure-bottlenecks-that-kill-generative-ai-performance/",
+      "url": "http://localhost:5504/articles/3-infrastructure-bottlenecks-that-kill-generative-ai-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/5-key-elements-for-enabling-your-modern-workforce/",
+      "url": "http://localhost:5504/articles/5-key-elements-for-enabling-your-modern-workforce/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/5-tips-for-updating-software-in-finance-cybersecurity/",
+      "url": "http://localhost:5504/articles/5-tips-for-updating-software-in-finance-cybersecurity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/7-essential-it-strategies-for-a-permanent-hybrid-workforce/",
+      "url": "http://localhost:5504/articles/7-essential-it-strategies-for-a-permanent-hybrid-workforce/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/7-ways-to-boost-cybersecurity-awareness-among-your-business-leaders/",
+      "url": "http://localhost:5504/articles/7-ways-to-boost-cybersecurity-awareness-among-your-business-leaders/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/__trashed-3/",
+      "url": "http://localhost:5504/articles/__trashed-3/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/a-comprehensive-guide-to-buy-nvidia-dgx-h100-the-nvidia-edition/",
+      "url": "http://localhost:5504/articles/a-comprehensive-guide-to-buy-nvidia-dgx-h100-the-nvidia-edition/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/a-comprehensive-look-at-modern-use-cases-for-edge-computing/",
+      "url": "http://localhost:5504/articles/a-comprehensive-look-at-modern-use-cases-for-edge-computing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/a-deep-dive-into-junipers-bestselling-ex-series-switches-for-enterprise-networks/",
+      "url": "http://localhost:5504/articles/a-deep-dive-into-junipers-bestselling-ex-series-switches-for-enterprise-networks/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/a-framework-for-future-cybersecurity-in-agriculture/",
+      "url": "http://localhost:5504/articles/a-framework-for-future-cybersecurity-in-agriculture/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/a-guide-to-multi-factor-authentication-mfa-in-finance-cybersecurity/",
+      "url": "http://localhost:5504/articles/a-guide-to-multi-factor-authentication-mfa-in-finance-cybersecurity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/accelerating-workflows-with-nvidia-hpc-compilers-unlocking-performance-on-nvidia-h200-gpus/",
+      "url": "http://localhost:5504/articles/accelerating-workflows-with-nvidia-hpc-compilers-unlocking-performance-on-nvidia-h200-gpus/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/achieving-business-resilience-with-key-technologies-and-services/",
+      "url": "http://localhost:5504/articles/achieving-business-resilience-with-key-technologies-and-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/adapting-corporate-it-infrastructure-to-support-cutting-edge-research-and-development/",
+      "url": "http://localhost:5504/articles/adapting-corporate-it-infrastructure-to-support-cutting-edge-research-and-development/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/adapting-to-ai-driven-support-for-human-labor/",
+      "url": "http://localhost:5504/articles/adapting-to-ai-driven-support-for-human-labor/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/adopting-sustainable-best-practices-for-enterprise-ict/",
+      "url": "http://localhost:5504/articles/adopting-sustainable-best-practices-for-enterprise-ict/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/agentic-ai-and-nvidia-h200-powering-the-next-era-of-autonomous-intelligence/",
+      "url": "http://localhost:5504/articles/agentic-ai-and-nvidia-h200-powering-the-next-era-of-autonomous-intelligence/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/ai-computing-nvidia-h100-and-h200-tensor-core-gpus/",
+      "url": "http://localhost:5504/articles/ai-computing-nvidia-h100-and-h200-tensor-core-gpus/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/ai-enterprise-infrastructure-layer-software-the-backbone-of-scalable-ai/",
+      "url": "http://localhost:5504/articles/ai-enterprise-infrastructure-layer-software-the-backbone-of-scalable-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/ai-inference-chips-latest-rankings-who-leads-the-race/",
+      "url": "http://localhost:5504/articles/ai-inference-chips-latest-rankings-who-leads-the-race/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/ai-integration-trends-in-data-center-management/",
+      "url": "http://localhost:5504/articles/ai-integration-trends-in-data-center-management/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/ai-safety-evaluations-done-right-what-enterprise-cios-can-learn-from-metrs-playbook/",
+      "url": "http://localhost:5504/articles/ai-safety-evaluations-done-right-what-enterprise-cios-can-learn-from-metrs-playbook/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/ai-server-financing-should-you-buy-lease-or-rent-for-ai-at-scale/",
+      "url": "http://localhost:5504/articles/ai-server-financing-should-you-buy-lease-or-rent-for-ai-at-scale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/ai-server-support-maximizing-nvidia-h100/",
+      "url": "http://localhost:5504/articles/ai-server-support-maximizing-nvidia-h100/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/ai-servers-and-gpus-their-roles-in-the-future-and-growing-demands/",
+      "url": "http://localhost:5504/articles/ai-servers-and-gpus-their-roles-in-the-future-and-growing-demands/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/air-cooled-vs-liquid-cooled-ai-servers-how-to-future-proof-your-h200-server-deployment/",
+      "url": "http://localhost:5504/articles/air-cooled-vs-liquid-cooled-ai-servers-how-to-future-proof-your-h200-server-deployment/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/aligning-digital-transformation-with-your-modern-supply-chain/",
+      "url": "http://localhost:5504/articles/aligning-digital-transformation-with-your-modern-supply-chain/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/automating-enterprise-networks-through-managed-network-operations/",
+      "url": "http://localhost:5504/articles/automating-enterprise-networks-through-managed-network-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/avoiding-budget-overruns-costs-of-ai-server-deployments/",
+      "url": "http://localhost:5504/articles/avoiding-budget-overruns-costs-of-ai-server-deployments/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/best-gpus-for-ai/",
+      "url": "http://localhost:5504/articles/best-gpus-for-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/best-practices-for-multi-gpu-server-deployment-how-to-avoid-bottlenecks-and-optimize-nvidia-h200-performance/",
+      "url": "http://localhost:5504/articles/best-practices-for-multi-gpu-server-deployment-how-to-avoid-bottlenecks-and-optimize-nvidia-h200-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/best-selling-data-center-equipment/",
+      "url": "http://localhost:5504/articles/best-selling-data-center-equipment/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/beyond-cryptocurrency-the-top-5-business-use-cases-for-blockchain/",
+      "url": "http://localhost:5504/articles/beyond-cryptocurrency-the-top-5-business-use-cases-for-blockchain/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/beyond-hopper-what-nvidias-blackwell-architecture-means-for-the-future-of-ai/",
+      "url": "http://localhost:5504/articles/beyond-hopper-what-nvidias-blackwell-architecture-means-for-the-future-of-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/beyond-raw-power-how-smart-inference-strategy-reduces-ai-infrastructure-costs-without-sacrificing-performance/",
+      "url": "http://localhost:5504/articles/beyond-raw-power-how-smart-inference-strategy-reduces-ai-infrastructure-costs-without-sacrificing-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/beyond-sticker-price-how-nvidia-h200-servers-slash-long-term-tco/",
+      "url": "http://localhost:5504/articles/beyond-sticker-price-how-nvidia-h200-servers-slash-long-term-tco/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/beyond-the-desktop-choosing-the-right-backup-solution/",
+      "url": "http://localhost:5504/articles/beyond-the-desktop-choosing-the-right-backup-solution/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/beyond-the-model-how-tensorrt-and-inference-unlock-real-roi-on-nvidia-h200/",
+      "url": "http://localhost:5504/articles/beyond-the-model-how-tensorrt-and-inference-unlock-real-roi-on-nvidia-h200/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/big-data-2-0-exploring-the-latest-tools-and-technologies/",
+      "url": "http://localhost:5504/articles/big-data-2-0-exploring-the-latest-tools-and-technologies/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/big-data-insights-fueling-the-next-wave-of-business-innovation/",
+      "url": "http://localhost:5504/articles/big-data-insights-fueling-the-next-wave-of-business-innovation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/blackwell-architecture-and-the-future-of-ai-inferencing/",
+      "url": "http://localhost:5504/articles/blackwell-architecture-and-the-future-of-ai-inferencing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/blockchain-and-the-next-generation-of-cybersecurity/",
+      "url": "http://localhost:5504/articles/blockchain-and-the-next-generation-of-cybersecurity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/blockchain-meets-iot-strengthening-data-security-in-the-digital-age/",
+      "url": "http://localhost:5504/articles/blockchain-meets-iot-strengthening-data-security-in-the-digital-age/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/boost-your-business-efficiency-with-uvations-tailored-productivity-and-communication-solutions/",
+      "url": "http://localhost:5504/articles/boost-your-business-efficiency-with-uvations-tailored-productivity-and-communication-solutions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/branches-2-0-the-reemerging-relevance-of-physical-banking/",
+      "url": "http://localhost:5504/articles/branches-2-0-the-reemerging-relevance-of-physical-banking/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/breaking-down-the-ai-server-data-center-cost/",
+      "url": "http://localhost:5504/articles/breaking-down-the-ai-server-data-center-cost/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/bridging-the-contingent-staffing-gap-in-hybrid-work-environments/",
+      "url": "http://localhost:5504/articles/bridging-the-contingent-staffing-gap-in-hybrid-work-environments/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/budget-bliss-in-the-cloud-it-managers-playbook-for-cost-efficiency/",
+      "url": "http://localhost:5504/articles/budget-bliss-in-the-cloud-it-managers-playbook-for-cost-efficiency/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/building-a-successful-cloud-environment-the-uvation-advantage/",
+      "url": "http://localhost:5504/articles/building-a-successful-cloud-environment-the-uvation-advantage/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/building-brains-on-campus-the-critical-role-of-ai-infrastructure-in-colleges/",
+      "url": "http://localhost:5504/articles/building-brains-on-campus-the-critical-role-of-ai-infrastructure-in-colleges/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/building-unbreakable-applications-the-power-of-resiliency-cloud/",
+      "url": "http://localhost:5504/articles/building-unbreakable-applications-the-power-of-resiliency-cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/category/5-g/",
+      "url": "http://localhost:5504/articles/category/5-g/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/aerospace-engineering/",
+      "url": "http://localhost:5504/articles/category/aerospace-engineering/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/analytics-and-big-data/",
+      "url": "http://localhost:5504/articles/category/analytics-and-big-data/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/applications/",
+      "url": "http://localhost:5504/articles/category/applications/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/artificial-intelligence/",
+      "url": "http://localhost:5504/articles/category/artificial-intelligence/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/business-resiliency/",
+      "url": "http://localhost:5504/articles/category/business-resiliency/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/cloud/",
+      "url": "http://localhost:5504/articles/category/cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/colocation/",
+      "url": "http://localhost:5504/articles/category/colocation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/cybersecurity/",
+      "url": "http://localhost:5504/articles/category/cybersecurity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/datacenter/",
+      "url": "http://localhost:5504/articles/category/datacenter/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/dev-ops-and-web-ops/",
+      "url": "http://localhost:5504/articles/category/dev-ops-and-web-ops/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/digital/",
+      "url": "http://localhost:5504/articles/category/digital/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/edge-computing/",
+      "url": "http://localhost:5504/articles/category/edge-computing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/incident-response/",
+      "url": "http://localhost:5504/articles/category/incident-response/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/information-technology/",
+      "url": "http://localhost:5504/articles/category/information-technology/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/infrastructure/",
+      "url": "http://localhost:5504/articles/category/infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/internet-of-things/",
+      "url": "http://localhost:5504/articles/category/internet-of-things/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/managed-it/",
+      "url": "http://localhost:5504/articles/category/managed-it/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/managed-security/",
+      "url": "http://localhost:5504/articles/category/managed-security/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/private-public/",
+      "url": "http://localhost:5504/articles/category/private-public/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/public-sector/",
+      "url": "http://localhost:5504/articles/category/public-sector/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/research-and-development/",
+      "url": "http://localhost:5504/articles/category/research-and-development/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/resiliency-cloud/",
+      "url": "http://localhost:5504/articles/category/resiliency-cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/soc-services/",
+      "url": "http://localhost:5504/articles/category/soc-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/technology-services/",
+      "url": "http://localhost:5504/articles/category/technology-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/transformation/",
+      "url": "http://localhost:5504/articles/category/transformation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/web-services-and-platforms/",
+      "url": "http://localhost:5504/articles/category/web-services-and-platforms/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/category/workforce-enablement/",
+      "url": "http://localhost:5504/articles/category/workforce-enablement/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/articles/charting-the-path-to-a-sustainable-transportation-sector/",
+      "url": "http://localhost:5504/articles/charting-the-path-to-a-sustainable-transportation-sector/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/checklist-for-ai-server-deployment-in-hybrid-environments/",
+      "url": "http://localhost:5504/articles/checklist-for-ai-server-deployment-in-hybrid-environments/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/closing-the-digital-gap-for-airlines-in-2023-and-beyond/",
+      "url": "http://localhost:5504/articles/closing-the-digital-gap-for-airlines-in-2023-and-beyond/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/closing-the-tech-talent-gap-recruiting-and-retaining-workers-with-leading-technical-skills/",
+      "url": "http://localhost:5504/articles/closing-the-tech-talent-gap-recruiting-and-retaining-workers-with-leading-technical-skills/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/comprehensive-review-of-the-gpu-superserver-sys-421ge-tnrt/",
+      "url": "http://localhost:5504/articles/comprehensive-review-of-the-gpu-superserver-sys-421ge-tnrt/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/coreweave-h100-pricing-how-does-it-stack-up-against-other-cloud-gpu-providers/",
+      "url": "http://localhost:5504/articles/coreweave-h100-pricing-how-does-it-stack-up-against-other-cloud-gpu-providers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/cost-of-ai-server-on-prem-ai-data-centres-hyperscalers/",
+      "url": "http://localhost:5504/articles/cost-of-ai-server-on-prem-ai-data-centres-hyperscalers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/creating-true-environmental-progress-in-global-business/",
+      "url": "http://localhost:5504/articles/creating-true-environmental-progress-in-global-business/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/critical-best-practices-for-securing-your-iot-devices-and-infrastructure/",
+      "url": "http://localhost:5504/articles/critical-best-practices-for-securing-your-iot-devices-and-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/cybersecurity-best-practices-for-protecting-critical-infrastructure/",
+      "url": "http://localhost:5504/articles/cybersecurity-best-practices-for-protecting-critical-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/cybersecurity-in-2023-how-cybersecurity-teams-can-prepare/",
+      "url": "http://localhost:5504/articles/cybersecurity-in-2023-how-cybersecurity-teams-can-prepare/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/cybersecurity-in-banking-challenges-and-best-practices-for-2023/",
+      "url": "http://localhost:5504/articles/cybersecurity-in-banking-challenges-and-best-practices-for-2023/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/cybersecurity-priorities-and-opportunities-in-the-energy-sector/",
+      "url": "http://localhost:5504/articles/cybersecurity-priorities-and-opportunities-in-the-energy-sector/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/cybersecurity-questions-and-answers-for-modern-financial-firms/",
+      "url": "http://localhost:5504/articles/cybersecurity-questions-and-answers-for-modern-financial-firms/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/data-and-ai-your-organizations-competitive-advantage/",
+      "url": "http://localhost:5504/articles/data-and-ai-your-organizations-competitive-advantage/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/data-center-ssds-top-picks-for-performance-and-reliability/",
+      "url": "http://localhost:5504/articles/data-center-ssds-top-picks-for-performance-and-reliability/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/data-center-trends-every-company-should-be-aware-of/",
+      "url": "http://localhost:5504/articles/data-center-trends-every-company-should-be-aware-of/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/data-sovereignty-vs-data-residency-vs-data-localization-in-the-ai-era/",
+      "url": "http://localhost:5504/articles/data-sovereignty-vs-data-residency-vs-data-localization-in-the-ai-era/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/decoding-ais-impact-on-risk-management-in-banking-and-finance/",
+      "url": "http://localhost:5504/articles/decoding-ais-impact-on-risk-management-in-banking-and-finance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/dell-poweredge-xe8640-a-review/",
+      "url": "http://localhost:5504/articles/dell-poweredge-xe8640-a-review/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/dell-unity-xt-revolutionizing-hybrid-storage-for-modern-workloads/",
+      "url": "http://localhost:5504/articles/dell-unity-xt-revolutionizing-hybrid-storage-for-modern-workloads/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/dells-ai-powered-pcs-and-servers-a-leap-forward-with-qualcomm-and-nvidia-chips/",
+      "url": "http://localhost:5504/articles/dells-ai-powered-pcs-and-servers-a-leap-forward-with-qualcomm-and-nvidia-chips/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 0,
+      "checked_resources": 0
+    },
+    {
+      "path": "/articles/dells-powerscale-and-powerstore-the-ultimate-in-ai-ready-and-efficient-storage/",
+      "url": "http://localhost:5504/articles/dells-powerscale-and-powerstore-the-ultimate-in-ai-ready-and-efficient-storage/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/demystifying-cybersecurity-suites-a-guide-to-choosing-the-best-protection-for-your-business/",
+      "url": "http://localhost:5504/articles/demystifying-cybersecurity-suites-a-guide-to-choosing-the-best-protection-for-your-business/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/digital-darwinism-adapting-to-survive-in-the-tech-ecosystem-with-uvation/",
+      "url": "http://localhost:5504/articles/digital-darwinism-adapting-to-survive-in-the-tech-ecosystem-with-uvation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/discover-the-power-of-powervault-with-top-storage-solutions-at-uvation-marketplace/",
+      "url": "http://localhost:5504/articles/discover-the-power-of-powervault-with-top-storage-solutions-at-uvation-marketplace/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/doubling-down-on-inference-why-the-h200-is-a-game-changer-for-ai-first-enterprises/",
+      "url": "http://localhost:5504/articles/doubling-down-on-inference-why-the-h200-is-a-game-changer-for-ai-first-enterprises/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/edge-computing-5g-transforming-industry-in-2023-and-beyond/",
+      "url": "http://localhost:5504/articles/edge-computing-5g-transforming-industry-in-2023-and-beyond/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/edge-intelligence-converging-edge-computing-iot-and-ai/",
+      "url": "http://localhost:5504/articles/edge-intelligence-converging-edge-computing-iot-and-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/eight-emerging-digital-solutions-in-healthcare-logistics/",
+      "url": "http://localhost:5504/articles/eight-emerging-digital-solutions-in-healthcare-logistics/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/eleven-ways-you-can-use-windows-11-to-improve-your-business-today/",
+      "url": "http://localhost:5504/articles/eleven-ways-you-can-use-windows-11-to-improve-your-business-today/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/emerging-applications-for-ai-in-aerospace-and-defense/",
+      "url": "http://localhost:5504/articles/emerging-applications-for-ai-in-aerospace-and-defense/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/emerging-cybersecurity-best-practices-in-higher-education/",
+      "url": "http://localhost:5504/articles/emerging-cybersecurity-best-practices-in-higher-education/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/employees-and-msps-building-and-supporting-your-in-house-cybersecurity-team/",
+      "url": "http://localhost:5504/articles/employees-and-msps-building-and-supporting-your-in-house-cybersecurity-team/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/enhancing-cyber-security-incident-response-with-uvation/",
+      "url": "http://localhost:5504/articles/enhancing-cyber-security-incident-response-with-uvation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/essential-disaster-recovery-strategies-building-resilience-with-uvation/",
+      "url": "http://localhost:5504/articles/essential-disaster-recovery-strategies-building-resilience-with-uvation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/establishing-telehealth-successfully-in-modern-patient-care/",
+      "url": "http://localhost:5504/articles/establishing-telehealth-successfully-in-modern-patient-care/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/expanding-capabilities-redfish-api-support-for-modern-infrastructure/",
+      "url": "http://localhost:5504/articles/expanding-capabilities-redfish-api-support-for-modern-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/exploring-azure-stack-bringing-the-power-of-azure-to-your-data-center/",
+      "url": "http://localhost:5504/articles/exploring-azure-stack-bringing-the-power-of-azure-to-your-data-center/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/exploring-socaas-is-it-right-for-your-company/",
+      "url": "http://localhost:5504/articles/exploring-socaas-is-it-right-for-your-company/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/finding-your-flow-the-best-microsoft-surface-for-every-need/",
+      "url": "http://localhost:5504/articles/finding-your-flow-the-best-microsoft-surface-for-every-need/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/five-reasons-all-organizations-should-consider-managed-security/",
+      "url": "http://localhost:5504/articles/five-reasons-all-organizations-should-consider-managed-security/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/five-steps-to-next-generation-incident-preparedness-and-response/",
+      "url": "http://localhost:5504/articles/five-steps-to-next-generation-incident-preparedness-and-response/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/five-trends-shaping-the-internet-of-military-things-iomt/",
+      "url": "http://localhost:5504/articles/five-trends-shaping-the-internet-of-military-things-iomt/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/fort-knox-in-the-cloud-how-google-protects-your-data/",
+      "url": "http://localhost:5504/articles/fort-knox-in-the-cloud-how-google-protects-your-data/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-backlog-to-breakthrough-the-efficiency-revolution-of-low-code-development/",
+      "url": "http://localhost:5504/articles/from-backlog-to-breakthrough-the-efficiency-revolution-of-low-code-development/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-bulky-to-brainy-building-efficient-ai-infrastructure-on-a-budget-with-nvidia-gpus/",
+      "url": "http://localhost:5504/articles/from-bulky-to-brainy-building-efficient-ai-infrastructure-on-a-budget-with-nvidia-gpus/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-code-to-creativity-redefining-development-with-low-code-no-code/",
+      "url": "http://localhost:5504/articles/from-code-to-creativity-redefining-development-with-low-code-no-code/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-crisis-to-continuity-the-essential-guide-to-business-resilience/",
+      "url": "http://localhost:5504/articles/from-crisis-to-continuity-the-essential-guide-to-business-resilience/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-graphics-to-galaxies-the-scientific-powerhouse-behind-gpus/",
+      "url": "http://localhost:5504/articles/from-graphics-to-galaxies-the-scientific-powerhouse-behind-gpus/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-hype-to-hardware-why-cios-are-betting-on-the-h200-for-ai-at-scale/",
+      "url": "http://localhost:5504/articles/from-hype-to-hardware-why-cios-are-betting-on-the-h200-for-ai-at-scale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-migration-to-mastery-enhancing-business-efficiency-through-cloud-optimization-2/",
+      "url": "http://localhost:5504/articles/from-migration-to-mastery-enhancing-business-efficiency-through-cloud-optimization-2/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 0,
+      "checked_resources": 0
+    },
+    {
+      "path": "/articles/from-migration-to-mastery-enhancing-business-efficiency-through-cloud-optimization/",
+      "url": "http://localhost:5504/articles/from-migration-to-mastery-enhancing-business-efficiency-through-cloud-optimization/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-predictive-modeling-to-ai-the-transformative-power-of-advanced-data-analytics/",
+      "url": "http://localhost:5504/articles/from-predictive-modeling-to-ai-the-transformative-power-of-advanced-data-analytics/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/from-ransomware-to-supply-chain-attacks-navigating-cyber-threats-with-experts/",
+      "url": "http://localhost:5504/articles/from-ransomware-to-supply-chain-attacks-navigating-cyber-threats-with-experts/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/future-proofing-your-business-cloud-compliance-in-the-age-of-innovation/",
+      "url": "http://localhost:5504/articles/future-proofing-your-business-cloud-compliance-in-the-age-of-innovation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/generative-ai-is-transforming-advanced-analytics/",
+      "url": "http://localhost:5504/articles/generative-ai-is-transforming-advanced-analytics/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/geopolitical-cybersecurity-2022-what-ceos-and-cisos-need-to-know/",
+      "url": "http://localhost:5504/articles/geopolitical-cybersecurity-2022-what-ceos-and-cisos-need-to-know/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/getting-started-with-low-code-or-no-code-lcnc-application-development/",
+      "url": "http://localhost:5504/articles/getting-started-with-low-code-or-no-code-lcnc-application-development/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/gpu-memory-advancements-nvidia-h200-vs-h100-capacity-bandwidth-and-impact-on-ai-workloads/",
+      "url": "http://localhost:5504/articles/gpu-memory-advancements-nvidia-h200-vs-h100-capacity-bandwidth-and-impact-on-ai-workloads/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/gpu-servers-for-deep-learning/",
+      "url": "http://localhost:5504/articles/gpu-servers-for-deep-learning/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/gpu-showdown-nvidia-intel-and-amds-technological-marvels-at-uvation-marketplace/",
+      "url": "http://localhost:5504/articles/gpu-showdown-nvidia-intel-and-amds-technological-marvels-at-uvation-marketplace/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/gpus-in-university-research-powering-the-next-era-of-discovery/",
+      "url": "http://localhost:5504/articles/gpus-in-university-research-powering-the-next-era-of-discovery/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/guardians-of-the-game-ensuring-cybersecurity-in-modern-gaming-platforms/",
+      "url": "http://localhost:5504/articles/guardians-of-the-game-ensuring-cybersecurity-in-modern-gaming-platforms/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/guide-to-h100-fp8/",
+      "url": "http://localhost:5504/articles/guide-to-h100-fp8/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h100-and-open-source-llms-unprecedented-performance-for-world-class-innovation/",
+      "url": "http://localhost:5504/articles/h100-and-open-source-llms-unprecedented-performance-for-world-class-innovation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h100-availability-the-silent-crisis-threatening-enterprise-ai-plans/",
+      "url": "http://localhost:5504/articles/h100-availability-the-silent-crisis-threatening-enterprise-ai-plans/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h100-tflops/",
+      "url": "http://localhost:5504/articles/h100-tflops/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h100-vs-h200-for-multi-tenant-inference-which-gpu-architecture-wins-at-scale/",
+      "url": "http://localhost:5504/articles/h100-vs-h200-for-multi-tenant-inference-which-gpu-architecture-wins-at-scale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h100-vs-h200-nvl-which-dual-gpu-setup-delivers-better-roi-for-enterprise-ai/",
+      "url": "http://localhost:5504/articles/h100-vs-h200-nvl-which-dual-gpu-setup-delivers-better-roi-for-enterprise-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h100-vs-h200-performance-comparison-decoding-the-gpu-upgrade-that-will-shape-enterprise-ai/",
+      "url": "http://localhost:5504/articles/h100-vs-h200-performance-comparison-decoding-the-gpu-upgrade-that-will-shape-enterprise-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h100-vs-h200-real-time-inference-benchmarks-for-chatbots-and-llms/",
+      "url": "http://localhost:5504/articles/h100-vs-h200-real-time-inference-benchmarks-for-chatbots-and-llms/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h100-vs-h200-specs-synthetic-vs-real-world-benchmarks-in-gpu-testing/",
+      "url": "http://localhost:5504/articles/h100-vs-h200-specs-synthetic-vs-real-world-benchmarks-in-gpu-testing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-computing-powering-the-next-frontier-in-scientific-research/",
+      "url": "http://localhost:5504/articles/h200-computing-powering-the-next-frontier-in-scientific-research/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-data-center-architecture-for-hpc-ai-bandwidth-at-scale/",
+      "url": "http://localhost:5504/articles/h200-data-center-architecture-for-hpc-ai-bandwidth-at-scale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-deployment-tools-building-robust-ai-infrastructures-with-nvidias-tools-best-practices/",
+      "url": "http://localhost:5504/articles/h200-deployment-tools-building-robust-ai-infrastructures-with-nvidias-tools-best-practices/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-drivers-the-backbone-of-nvidias-next-gen-gpu-performance/",
+      "url": "http://localhost:5504/articles/h200-drivers-the-backbone-of-nvidias-next-gen-gpu-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-for-ai-inference-why-system-administrators-should-bet-on-the-h200/",
+      "url": "http://localhost:5504/articles/h200-for-ai-inference-why-system-administrators-should-bet-on-the-h200/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-gpu-for-ai-model-training-memory-bandwidth-capacity-benefits-explained/",
+      "url": "http://localhost:5504/articles/h200-gpu-for-ai-model-training-memory-bandwidth-capacity-benefits-explained/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-gpu-memory-bandwidth-unlocking-the-4-8-tb-s-advantage-for-ai-at-scale/",
+      "url": "http://localhost:5504/articles/h200-gpu-memory-bandwidth-unlocking-the-4-8-tb-s-advantage-for-ai-at-scale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-memory-breakthrough-transform-ai-training-on-hugging-face/",
+      "url": "http://localhost:5504/articles/h200-memory-breakthrough-transform-ai-training-on-hugging-face/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-pcie-datasheet-nvidias-most-versatile-ai-gpu-form-factor-for-enterprise-ai/",
+      "url": "http://localhost:5504/articles/h200-pcie-datasheet-nvidias-most-versatile-ai-gpu-form-factor-for-enterprise-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-performance-gains-how-modern-accelerators-deliver-110x-in-hpc/",
+      "url": "http://localhost:5504/articles/h200-performance-gains-how-modern-accelerators-deliver-110x-in-hpc/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-server-optimization-best-practices-for-batch-size-precision-and-performance-monitoring/",
+      "url": "http://localhost:5504/articles/h200-server-optimization-best-practices-for-batch-size-precision-and-performance-monitoring/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/h200-vs-h100-gpu-memory-which-one-is-better-for-ai-workloads/",
+      "url": "http://localhost:5504/articles/h200-vs-h100-gpu-memory-which-one-is-better-for-ai-workloads/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/hack-proof-your-business-essential-cybersecurity-tactics-for-it-pros/",
+      "url": "http://localhost:5504/articles/hack-proof-your-business-essential-cybersecurity-tactics-for-it-pros/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/harnessing-the-power-of-edge-computing-as-part-of-your-data-center-strategy/",
+      "url": "http://localhost:5504/articles/harnessing-the-power-of-edge-computing-as-part-of-your-data-center-strategy/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/harnessing-the-power-of-nvidia-h100-sxm5-a-strategic-guide/",
+      "url": "http://localhost:5504/articles/harnessing-the-power-of-nvidia-h100-sxm5-a-strategic-guide/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/high-performance-ai-servers-accelerate-business-development-with-uvation-marketplace/",
+      "url": "http://localhost:5504/articles/high-performance-ai-servers-accelerate-business-development-with-uvation-marketplace/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/high-throughput-batch-inference-with-nvidia-h200-unlocking-scalable-ai-performance/",
+      "url": "http://localhost:5504/articles/high-throughput-batch-inference-with-nvidia-h200-unlocking-scalable-ai-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-5g-will-revolutionize-manufacturing-in-2022-and-beyond/",
+      "url": "http://localhost:5504/articles/how-5g-will-revolutionize-manufacturing-in-2022-and-beyond/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-a-trusted-interdisciplinary-technology-partner-can-put-you-on-the-right-innovative-track/",
+      "url": "http://localhost:5504/articles/how-a-trusted-interdisciplinary-technology-partner-can-put-you-on-the-right-innovative-track/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 0,
+      "checked_resources": 0
+    },
+    {
+      "path": "/articles/how-advanced-analytics-can-transform-institutions-of-higher-learning/",
+      "url": "http://localhost:5504/articles/how-advanced-analytics-can-transform-institutions-of-higher-learning/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-ai-will-transform-the-world-in-the-next-30-years/",
+      "url": "http://localhost:5504/articles/how-ai-will-transform-the-world-in-the-next-30-years/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-artificial-intelligence-is-transforming-scientific-research-development-2/",
+      "url": "http://localhost:5504/articles/how-artificial-intelligence-is-transforming-scientific-research-development-2/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-computing-infrastructure-modernization-can-boost-your-businesss-competitive-edge/",
+      "url": "http://localhost:5504/articles/how-computing-infrastructure-modernization-can-boost-your-businesss-competitive-edge/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-dark-web-research-keeps-cybersecurity-experts-ahead-of-hackers/",
+      "url": "http://localhost:5504/articles/how-dark-web-research-keeps-cybersecurity-experts-ahead-of-hackers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-the-nvidia-container-toolkit-enables-gpu-acceleration-in-containers/",
+      "url": "http://localhost:5504/articles/how-the-nvidia-container-toolkit-enables-gpu-acceleration-in-containers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-the-u-s-military-is-using-5g-to-transform-its-networked-infrastructure/",
+      "url": "http://localhost:5504/articles/how-the-u-s-military-is-using-5g-to-transform-its-networked-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-to-build-a-more-resilient-organization-with-cloud/",
+      "url": "http://localhost:5504/articles/how-to-build-a-more-resilient-organization-with-cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-to-build-an-organizational-culture-of-data-driven-decision-making/",
+      "url": "http://localhost:5504/articles/how-to-build-an-organizational-culture-of-data-driven-decision-making/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-to-choose-the-right-ai-server-for-your-business-needs/",
+      "url": "http://localhost:5504/articles/how-to-choose-the-right-ai-server-for-your-business-needs/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-to-create-a-company-culture-of-phishing-awareness-and-action/",
+      "url": "http://localhost:5504/articles/how-to-create-a-company-culture-of-phishing-awareness-and-action/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-to-empower-remote-workers-with-data-democratization/",
+      "url": "http://localhost:5504/articles/how-to-empower-remote-workers-with-data-democratization/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-to-kickstart-your-retail-cybersecurity-strategy/",
+      "url": "http://localhost:5504/articles/how-to-kickstart-your-retail-cybersecurity-strategy/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/how-uvation-is-planning-to-take-over-the-ai-market/",
+      "url": "http://localhost:5504/articles/how-uvation-is-planning-to-take-over-the-ai-market/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/hp-rack-servers-the-backbone-of-modern-it-infrastructure/",
+      "url": "http://localhost:5504/articles/hp-rack-servers-the-backbone-of-modern-it-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/hpe-proliant-xd685-air-cooled-server-high-performance-ai-infrastructure/",
+      "url": "http://localhost:5504/articles/hpe-proliant-xd685-air-cooled-server-high-performance-ai-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/hpe-proliant-xd685-the-liquid-cooled-ai-server-thats-reshaping-enterprise-infrastructure/",
+      "url": "http://localhost:5504/articles/hpe-proliant-xd685-the-liquid-cooled-ai-server-thats-reshaping-enterprise-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/human-skills-in-an-ai-world-the-key-to-staying-irreplaceable/",
+      "url": "http://localhost:5504/articles/human-skills-in-an-ai-world-the-key-to-staying-irreplaceable/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/humanizing-technology-the-role-of-ai-and-automation-in-modern-life/",
+      "url": "http://localhost:5504/articles/humanizing-technology-the-role-of-ai-and-automation-in-modern-life/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/hyperscale-data-centers-a-strategic-look-at-evolution/",
+      "url": "http://localhost:5504/articles/hyperscale-data-centers-a-strategic-look-at-evolution/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/hyperscalers-bet-big-on-ai-to-fuel-data-center-expansion/",
+      "url": "http://localhost:5504/articles/hyperscalers-bet-big-on-ai-to-fuel-data-center-expansion/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/improving-b2b-sales-with-emerging-data-technologies-and-digital-tools/",
+      "url": "http://localhost:5504/articles/improving-b2b-sales-with-emerging-data-technologies-and-digital-tools/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/improving-public-cybersecurity-in-the-face-of-modern-threats/",
+      "url": "http://localhost:5504/articles/improving-public-cybersecurity-in-the-face-of-modern-threats/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/industry-5-0-manufacturing-best-practices/",
+      "url": "http://localhost:5504/articles/industry-5-0-manufacturing-best-practices/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/innovate-thrive-uvations-role-in-advancing-rd-with-tech-solutions/",
+      "url": "http://localhost:5504/articles/innovate-thrive-uvations-role-in-advancing-rd-with-tech-solutions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/inside-the-nvidia-h200-what-components-actually-matter-for-enterprise-ai/",
+      "url": "http://localhost:5504/articles/inside-the-nvidia-h200-what-components-actually-matter-for-enterprise-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/internal-cybersecurity-threats-you-might-not-be-aware-of/",
+      "url": "http://localhost:5504/articles/internal-cybersecurity-threats-you-might-not-be-aware-of/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/introduction-to-nvidia-spectrum-2-sn3750-sx-switch/",
+      "url": "http://localhost:5504/articles/introduction-to-nvidia-spectrum-2-sn3750-sx-switch/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/is-colocation-right-for-your-business/",
+      "url": "http://localhost:5504/articles/is-colocation-right-for-your-business/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/is-remote-work-here-to-stay/",
+      "url": "http://localhost:5504/articles/is-remote-work-here-to-stay/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/is-your-it-a-burden-how-a-managed-service-provider-can-be-your-secret-weapon/",
+      "url": "http://localhost:5504/articles/is-your-it-a-burden-how-a-managed-service-provider-can-be-your-secret-weapon/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/lessons-from-the-u-s-military-about-environmental-sustainability/",
+      "url": "http://localhost:5504/articles/lessons-from-the-u-s-military-about-environmental-sustainability/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/level-up-your-pcs-performance-exploring-samsungs-cutting-edge-ddr4-and-ddr5-ram/",
+      "url": "http://localhost:5504/articles/level-up-your-pcs-performance-exploring-samsungs-cutting-edge-ddr4-and-ddr5-ram/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/leveraging-artificial-intelligence-for-workforce-enablement/",
+      "url": "http://localhost:5504/articles/leveraging-artificial-intelligence-for-workforce-enablement/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/locking-down-your-data-unveiling-the-security-advantages-of-bare-metal-servers/",
+      "url": "http://localhost:5504/articles/locking-down-your-data-unveiling-the-security-advantages-of-bare-metal-servers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/machine-learning-takes-off-the-future-of-aerospace-with-ai/",
+      "url": "http://localhost:5504/articles/machine-learning-takes-off-the-future-of-aerospace-with-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/mastering-cybersecurity-in-the-electronics-manufacturing-industry/",
+      "url": "http://localhost:5504/articles/mastering-cybersecurity-in-the-electronics-manufacturing-industry/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/mastering-llm-training-scaling-gpu-clusters-with-nvidia-h200/",
+      "url": "http://localhost:5504/articles/mastering-llm-training-scaling-gpu-clusters-with-nvidia-h200/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/maximize-business-continuity-with-uvations-robust-backup-solutions/",
+      "url": "http://localhost:5504/articles/maximize-business-continuity-with-uvations-robust-backup-solutions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/maximize-uptime-and-data-security-with-uvations-secure-wi-fi/",
+      "url": "http://localhost:5504/articles/maximize-uptime-and-data-security-with-uvations-secure-wi-fi/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/meet-your-storage-needs-with-hpe-d3610-and-d3710-storage-solutions/",
+      "url": "http://localhost:5504/articles/meet-your-storage-needs-with-hpe-d3610-and-d3710-storage-solutions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/mellanox-spectrum-2-msn3700-switch-review-32x200g-spine-powerhouse-tested/",
+      "url": "http://localhost:5504/articles/mellanox-spectrum-2-msn3700-switch-review-32x200g-spine-powerhouse-tested/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/mellanox-spectrum-2-msn3700c-switch-review-the-flexible-100gbe-powerhouse/",
+      "url": "http://localhost:5504/articles/mellanox-spectrum-2-msn3700c-switch-review-the-flexible-100gbe-powerhouse/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/mellanox-spectrum-2-sn3420-review-powering-modern-data-centers-with-flexibility-performance/",
+      "url": "http://localhost:5504/articles/mellanox-spectrum-2-sn3420-review-powering-modern-data-centers-with-flexibility-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/mellanox-spectrum-sn2010-review-the-ultimate-compact-switch-for-hyperconverged-storage-fabrics/",
+      "url": "http://localhost:5504/articles/mellanox-spectrum-sn2010-review-the-ultimate-compact-switch-for-hyperconverged-storage-fabrics/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/mellanox-spectrum-sn2100-review-the-compact-100gbe-switch-built-for-speed-and-scalability/",
+      "url": "http://localhost:5504/articles/mellanox-spectrum-sn2100-review-the-compact-100gbe-switch-built-for-speed-and-scalability/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/memory-matters-choosing-the-right-intel-solution-for-your-needs/",
+      "url": "http://localhost:5504/articles/memory-matters-choosing-the-right-intel-solution-for-your-needs/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/microsofts-ai-tools-the-future-of-retail-in-the-digital-age/",
+      "url": "http://localhost:5504/articles/microsofts-ai-tools-the-future-of-retail-in-the-digital-age/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/modern-cx-essentials-that-differentiate-your-consumer-brand/",
+      "url": "http://localhost:5504/articles/modern-cx-essentials-that-differentiate-your-consumer-brand/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/monitoring-and-observability-strategies-for-scalable-ai-server-deployment/",
+      "url": "http://localhost:5504/articles/monitoring-and-observability-strategies-for-scalable-ai-server-deployment/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/navigating-cybersecurity-best-practices-in-life-sciences-and-biotech/",
+      "url": "http://localhost:5504/articles/navigating-cybersecurity-best-practices-in-life-sciences-and-biotech/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/navigating-the-aerospace-and-defense-terrain-uvations-expertise-in-technology-implementation/",
+      "url": "http://localhost:5504/articles/navigating-the-aerospace-and-defense-terrain-uvations-expertise-in-technology-implementation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/navigating-the-tightrope-gdpr-compliance-in-the-age-of-ai/",
+      "url": "http://localhost:5504/articles/navigating-the-tightrope-gdpr-compliance-in-the-age-of-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/next-gen-networking-unveiled-the-power-of-wi-fi-6-and-wi-fi-6e/",
+      "url": "http://localhost:5504/articles/next-gen-networking-unveiled-the-power-of-wi-fi-6-and-wi-fi-6e/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/next-generation-supply-chains-best-practices-for-future-resilience/",
+      "url": "http://localhost:5504/articles/next-generation-supply-chains-best-practices-for-future-resilience/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-ai-enterprise-a-complete-guide-to-scalable-ai-deployment/",
+      "url": "http://localhost:5504/articles/nvidia-ai-enterprise-a-complete-guide-to-scalable-ai-deployment/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-at-computex-2025-building-the-ecosystem-not-just-the-chips/",
+      "url": "http://localhost:5504/articles/nvidia-at-computex-2025-building-the-ecosystem-not-just-the-chips/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-cuda-cores-the-engine-behind-h200-performance/",
+      "url": "http://localhost:5504/articles/nvidia-cuda-cores-the-engine-behind-h200-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-cybersecurity-ai-using-technology-to-fight-modern-threats/",
+      "url": "http://localhost:5504/articles/nvidia-cybersecurity-ai-using-technology-to-fight-modern-threats/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-dgx-basepod-accelerating-enterprise-ai-with-scalable-infrastructure/",
+      "url": "http://localhost:5504/articles/nvidia-dgx-basepod-accelerating-enterprise-ai-with-scalable-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-dgx-h200-components-deep-dive-into-the-hardware-architecture/",
+      "url": "http://localhost:5504/articles/nvidia-dgx-h200-components-deep-dive-into-the-hardware-architecture/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-dgx-h200-power-consumption-what-you-absolutely-must-know/",
+      "url": "http://localhost:5504/articles/nvidia-dgx-h200-power-consumption-what-you-absolutely-must-know/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-dgx-h200-vs-dgx-b200-choosing-the-right-ai-server/",
+      "url": "http://localhost:5504/articles/nvidia-dgx-h200-vs-dgx-b200-choosing-the-right-ai-server/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-dgx-platform-the-engine-of-enterprise-ai/",
+      "url": "http://localhost:5504/articles/nvidia-dgx-platform-the-engine-of-enterprise-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-dgx-superpod-with-h200-building-enterprise-scale-ai-infrastructure/",
+      "url": "http://localhost:5504/articles/nvidia-dgx-superpod-with-h200-building-enterprise-scale-ai-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h100-the-gpu-powering-the-next-wave-of-ai/",
+      "url": "http://localhost:5504/articles/nvidia-h100-the-gpu-powering-the-next-wave-of-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h100-vs-a100-a-comparative-analysis/",
+      "url": "http://localhost:5504/articles/nvidia-h100-vs-a100-a-comparative-analysis/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-accelerating-ai-inference-architecture/",
+      "url": "http://localhost:5504/articles/nvidia-h200-accelerating-ai-inference-architecture/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-and-kubernetes-unlocking-enterprise-ai-at-scale/",
+      "url": "http://localhost:5504/articles/nvidia-h200-and-kubernetes-unlocking-enterprise-ai-at-scale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-and-nvlink-powering-the-next-leap-in-enterprise-ai-infrastructure/",
+      "url": "http://localhost:5504/articles/nvidia-h200-and-nvlink-powering-the-next-leap-in-enterprise-ai-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-dpx-instructions-accelerating-dynamic-programming-for-ai-and-hpc/",
+      "url": "http://localhost:5504/articles/nvidia-h200-dpx-instructions-accelerating-dynamic-programming-for-ai-and-hpc/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-performance-transforming-creative-workflows/",
+      "url": "http://localhost:5504/articles/nvidia-h200-performance-transforming-creative-workflows/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-pre-flight-stress-test-for-seamless-ai-deployment/",
+      "url": "http://localhost:5504/articles/nvidia-h200-pre-flight-stress-test-for-seamless-ai-deployment/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-regulatory-approvals-ensuring-safe-and-compliant-ai-and-hpc-deployments/",
+      "url": "http://localhost:5504/articles/nvidia-h200-regulatory-approvals-ensuring-safe-and-compliant-ai-and-hpc-deployments/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-sxm-vs-h200-nvl-choosing-the-right-ai-powerhouse/",
+      "url": "http://localhost:5504/articles/nvidia-h200-sxm-vs-h200-nvl-choosing-the-right-ai-powerhouse/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-tensor-core-gpu-technical-specifications-what-it-means-for-ai-performance/",
+      "url": "http://localhost:5504/articles/nvidia-h200-tensor-core-gpu-technical-specifications-what-it-means-for-ai-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-tensor-core-gpu-the-definitive-pillar-for-enterprise-ai-and-hpc-workloads/",
+      "url": "http://localhost:5504/articles/nvidia-h200-tensor-core-gpu-the-definitive-pillar-for-enterprise-ai-and-hpc-workloads/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-vs-gaudi-3-the-ai-gpu-battle-heats-up/",
+      "url": "http://localhost:5504/articles/nvidia-h200-vs-gaudi-3-the-ai-gpu-battle-heats-up/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-vs-h100-better-performance-without-the-power-spike/",
+      "url": "http://localhost:5504/articles/nvidia-h200-vs-h100-better-performance-without-the-power-spike/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-vs-h100-the-hidden-cost-advantage-in-nvidias-latest-ai-gpu/",
+      "url": "http://localhost:5504/articles/nvidia-h200-vs-h100-the-hidden-cost-advantage-in-nvidias-latest-ai-gpu/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-h200-vs-h100-what-cios-must-know-before-signing-the-next-gpu-contract/",
+      "url": "http://localhost:5504/articles/nvidia-h200-vs-h100-what-cios-must-know-before-signing-the-next-gpu-contract/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-nim-and-nemo-nvidia-nemo-how-nvidias-cutting-edge-tools-are-transforming-custom-model-development/",
+      "url": "http://localhost:5504/articles/nvidia-nim-and-nemo-nvidia-nemo-how-nvidias-cutting-edge-tools-are-transforming-custom-model-development/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-pre-trained-models-accelerating-ai-adoption-with-h200/",
+      "url": "http://localhost:5504/articles/nvidia-pre-trained-models-accelerating-ai-adoption-with-h200/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-rtx-5090-deepseek-the-ai-revolution-for-enterprises/",
+      "url": "http://localhost:5504/articles/nvidia-rtx-5090-deepseek-the-ai-revolution-for-enterprises/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-rtx-virtual-workstation-vws-review-bridging-creative-workflows-and-dgx-h200-power/",
+      "url": "http://localhost:5504/articles/nvidia-rtx-virtual-workstation-vws-review-bridging-creative-workflows-and-dgx-h200-power/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-supernic-the-hidden-powerhouse-of-ai-cloud-data-centers/",
+      "url": "http://localhost:5504/articles/nvidia-supernic-the-hidden-powerhouse-of-ai-cloud-data-centers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-the-vanguard-of-gpu-innovation-and-ai-computing/",
+      "url": "http://localhost:5504/articles/nvidia-the-vanguard-of-gpu-innovation-and-ai-computing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-ufm-cyber-ai-transforming-fabric-management-for-secure-intelligent-data-centers/",
+      "url": "http://localhost:5504/articles/nvidia-ufm-cyber-ai-transforming-fabric-management-for-secure-intelligent-data-centers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-vgpu-virtualize-gpu-power-for-modern-workloads/",
+      "url": "http://localhost:5504/articles/nvidia-vgpu-virtualize-gpu-power-for-modern-workloads/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-virtual-applications-vapps-rethinking-app-delivery-for-high-performance-enterprises/",
+      "url": "http://localhost:5504/articles/nvidia-virtual-applications-vapps-rethinking-app-delivery-for-high-performance-enterprises/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidia-virtual-pc-vpc-and-the-role-of-dgx-h200-in-enterprise-virtualization/",
+      "url": "http://localhost:5504/articles/nvidia-virtual-pc-vpc-and-the-role-of-dgx-h200-in-enterprise-virtualization/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidias-rtx-5090-the-next-powerhouse-for-ai/",
+      "url": "http://localhost:5504/articles/nvidias-rtx-5090-the-next-powerhouse-for-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/nvidias-volta-hopper-and-ampere-what-they-do-and-why-they-matter/",
+      "url": "http://localhost:5504/articles/nvidias-volta-hopper-and-ampere-what-they-do-and-why-they-matter/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/optimize-innovate-dominate-juniper-networks-qfx-switches-for-data-centers/",
+      "url": "http://localhost:5504/articles/optimize-innovate-dominate-juniper-networks-qfx-switches-for-data-centers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/orchestrating-the-digital-symphony-essential-network-devices-explained/",
+      "url": "http://localhost:5504/articles/orchestrating-the-digital-symphony-essential-network-devices-explained/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/outsource-your-security-worries-the-rise-of-soc-as-a-service/",
+      "url": "http://localhost:5504/articles/outsource-your-security-worries-the-rise-of-soc-as-a-service/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/overcoming-aerospace-cybersecurity-challenges/",
+      "url": "http://localhost:5504/articles/overcoming-aerospace-cybersecurity-challenges/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/paving-the-way-for-a-more-connected-and-efficient-digital-future-with-latest-ethernet-and-wi-fi-solutions/",
+      "url": "http://localhost:5504/articles/paving-the-way-for-a-more-connected-and-efficient-digital-future-with-latest-ethernet-and-wi-fi-solutions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/perfecting-your-data-center-strategy-in-a-time-of-high-demand/",
+      "url": "http://localhost:5504/articles/perfecting-your-data-center-strategy-in-a-time-of-high-demand/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/power-up-your-workplace-a-guide-to-aruba-networks-indoor-access-points/",
+      "url": "http://localhost:5504/articles/power-up-your-workplace-a-guide-to-aruba-networks-indoor-access-points/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/poweredge-server-the-robust-infrastructure-powering-enterprise-ai-transformation/",
+      "url": "http://localhost:5504/articles/poweredge-server-the-robust-infrastructure-powering-enterprise-ai-transformation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/preparing-for-the-business-future-of-edge-computing/",
+      "url": "http://localhost:5504/articles/preparing-for-the-business-future-of-edge-computing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/preparing-your-growing-business-for-gdpr-compliance/",
+      "url": "http://localhost:5504/articles/preparing-your-growing-business-for-gdpr-compliance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/proactive-threat-detection-with-uvations-security-operations-services/",
+      "url": "http://localhost:5504/articles/proactive-threat-detection-with-uvations-security-operations-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/project-g-assist-ai-powered-system-optimization-for-enterprise-it/",
+      "url": "http://localhost:5504/articles/project-g-assist-ai-powered-system-optimization-for-enterprise-it/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/protecting-your-business-a-data-breach-response-blueprint/",
+      "url": "http://localhost:5504/articles/protecting-your-business-a-data-breach-response-blueprint/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/quantum-leap-how-quantum-computing-is-reshaping-aerospace-and-defense/",
+      "url": "http://localhost:5504/articles/quantum-leap-how-quantum-computing-is-reshaping-aerospace-and-defense/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/quantum-quest-bridging-the-gap-to-computings-next-frontier/",
+      "url": "http://localhost:5504/articles/quantum-quest-bridging-the-gap-to-computings-next-frontier/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/reducing-the-carbon-footprint-energy-saving-strategies-for-data-centers/",
+      "url": "http://localhost:5504/articles/reducing-the-carbon-footprint-energy-saving-strategies-for-data-centers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/redundant-by-design-how-nvidia-h200-power-management-empowers-real-enterprise-ai/",
+      "url": "http://localhost:5504/articles/redundant-by-design-how-nvidia-h200-power-management-empowers-real-enterprise-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/restoring-trust-in-the-digital-age-a-roadmap-to-recovery/",
+      "url": "http://localhost:5504/articles/restoring-trust-in-the-digital-age-a-roadmap-to-recovery/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/revolution-at-the-edge-how-the-next-generation-of-edge-computing-is-transforming-five-industries/",
+      "url": "http://localhost:5504/articles/revolution-at-the-edge-how-the-next-generation-of-edge-computing-is-transforming-five-industries/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/revolutionizing-data-center-networking-ai-trends-to-watch-by-2025/",
+      "url": "http://localhost:5504/articles/revolutionizing-data-center-networking-ai-trends-to-watch-by-2025/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/revolutionizing-data-centers-how-ai-servers-are-transforming-modern-computing/",
+      "url": "http://localhost:5504/articles/revolutionizing-data-centers-how-ai-servers-are-transforming-modern-computing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/revolutionizing-network-operations-strategies-for-a-connected-future/",
+      "url": "http://localhost:5504/articles/revolutionizing-network-operations-strategies-for-a-connected-future/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/rtx-5090-review-redefining-the-future-of-high-performance-gpus/",
+      "url": "http://localhost:5504/articles/rtx-5090-review-redefining-the-future-of-high-performance-gpus/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/rtx-5090/",
+      "url": "http://localhost:5504/articles/rtx-5090/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/secure-by-design-a-cybersecurity-blueprint-for-h200-server-deployment/",
+      "url": "http://localhost:5504/articles/secure-by-design-a-cybersecurity-blueprint-for-h200-server-deployment/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/securing-manufacturing-with-industry-4-0-cybersecurity/",
+      "url": "http://localhost:5504/articles/securing-manufacturing-with-industry-4-0-cybersecurity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/seize-the-future-uvation-marketplace-and-aruba-unite-for-next-level-wireless-performance/",
+      "url": "http://localhost:5504/articles/seize-the-future-uvation-marketplace-and-aruba-unite-for-next-level-wireless-performance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/silicon-symphony-harmonizing-tech-and-business-strategies/",
+      "url": "http://localhost:5504/articles/silicon-symphony-harmonizing-tech-and-business-strategies/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/smart-machines-smarter-business-how-industrial-iot-is-revolutionizing-operations/",
+      "url": "http://localhost:5504/articles/smart-machines-smarter-business-how-industrial-iot-is-revolutionizing-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/sovereign-ai-why-infrastructure-not-just-policy-will-decide-who-wins/",
+      "url": "http://localhost:5504/articles/sovereign-ai-why-infrastructure-not-just-policy-will-decide-who-wins/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/space-based-telecommunications-and-the-future-of-internet-connectivity/",
+      "url": "http://localhost:5504/articles/space-based-telecommunications-and-the-future-of-internet-connectivity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/stay-ahead-of-cyber-threats-with-palo-alto-networks-next-generation-firewalls/",
+      "url": "http://localhost:5504/articles/stay-ahead-of-cyber-threats-with-palo-alto-networks-next-generation-firewalls/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/streamlining-enterprise-container-management-with-red-hat-openshift/",
+      "url": "http://localhost:5504/articles/streamlining-enterprise-container-management-with-red-hat-openshift/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/supermicro-server-review-powerful-customizable-solutions-for-ai-and-data-processing/",
+      "url": "http://localhost:5504/articles/supermicro-server-review-powerful-customizable-solutions-for-ai-and-data-processing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/tech-giants-gold-rush-data-destiny-and-the-digital-age/",
+      "url": "http://localhost:5504/articles/tech-giants-gold-rush-data-destiny-and-the-digital-age/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-10-new-rules-of-building-business-resiliency/",
+      "url": "http://localhost:5504/articles/the-10-new-rules-of-building-business-resiliency/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-2024-tech-revolution-impact-on-people-planet-and-prosperity/",
+      "url": "http://localhost:5504/articles/the-2024-tech-revolution-impact-on-people-planet-and-prosperity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-backbone-of-wired-networks-understanding-ethernet-switches/",
+      "url": "http://localhost:5504/articles/the-backbone-of-wired-networks-understanding-ethernet-switches/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-benefits-of-edge-computing-for-manufacturers/",
+      "url": "http://localhost:5504/articles/the-benefits-of-edge-computing-for-manufacturers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-benefits-of-managed-services/",
+      "url": "http://localhost:5504/articles/the-benefits-of-managed-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-big-data-revolution-transforming-industries-one-byte-at-a-time/",
+      "url": "http://localhost:5504/articles/the-big-data-revolution-transforming-industries-one-byte-at-a-time/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-carbon-footprint-of-gpus-balancing-ai-performance-and-sustainability/",
+      "url": "http://localhost:5504/articles/the-carbon-footprint-of-gpus-balancing-ai-performance-and-sustainability/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-cloud-gets-smarter-google-cloud-integrates-ai-across-its-platform/",
+      "url": "http://localhost:5504/articles/the-cloud-gets-smarter-google-cloud-integrates-ai-across-its-platform/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-emerging-innovative-relationship-between-silicon-valley-and-the-u-s-department-of-defense/",
+      "url": "http://localhost:5504/articles/the-emerging-innovative-relationship-between-silicon-valley-and-the-u-s-department-of-defense/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 0,
+      "checked_resources": 0
+    },
+    {
+      "path": "/articles/the-evolution-of-digital-trust-and-how-enterprise-leaders-can-improve/",
+      "url": "http://localhost:5504/articles/the-evolution-of-digital-trust-and-how-enterprise-leaders-can-improve/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-future-of-business-integrating-iot-ai-and-5g-with-edge-computing/",
+      "url": "http://localhost:5504/articles/the-future-of-business-integrating-iot-ai-and-5g-with-edge-computing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-future-of-storage-exploring-data-center-ssds/",
+      "url": "http://localhost:5504/articles/the-future-of-storage-exploring-data-center-ssds/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-intersection-of-ai-and-clean-tech-advancing-a-sustainable-future/",
+      "url": "http://localhost:5504/articles/the-intersection-of-ai-and-clean-tech-advancing-a-sustainable-future/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-machines-are-fighting-back-in-cybersecurity-harnessing-ai-and-ml-for-enhanced-protection/",
+      "url": "http://localhost:5504/articles/the-machines-are-fighting-back-in-cybersecurity-harnessing-ai-and-ml-for-enhanced-protection/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-metaverse-is-coming-and-its-going-to-change-everything/",
+      "url": "http://localhost:5504/articles/the-metaverse-is-coming-and-its-going-to-change-everything/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-next-generation-of-workstations-dell-hp-and-microsoft-lead-the-way/",
+      "url": "http://localhost:5504/articles/the-next-generation-of-workstations-dell-hp-and-microsoft-lead-the-way/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-next-wave-of-enterprise-innovation-riding-the-5g-and-wi-fi-6-wave/",
+      "url": "http://localhost:5504/articles/the-next-wave-of-enterprise-innovation-riding-the-5g-and-wi-fi-6-wave/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-pinnacle-of-cyber-secure-object-storage-at-uvation-marketplace-dell-ecs/",
+      "url": "http://localhost:5504/articles/the-pinnacle-of-cyber-secure-object-storage-at-uvation-marketplace-dell-ecs/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-power-of-artificial-intelligence-in-personalized-learning/",
+      "url": "http://localhost:5504/articles/the-power-of-artificial-intelligence-in-personalized-learning/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-powermax-array-at-uvation-with-unmatched-performance-and-scalability/",
+      "url": "http://localhost:5504/articles/the-powermax-array-at-uvation-with-unmatched-performance-and-scalability/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-rise-of-neobanks-and-cloud-native-financial-services/",
+      "url": "http://localhost:5504/articles/the-rise-of-neobanks-and-cloud-native-financial-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-rise-of-subscription-services-origins-economics-and-predictions/",
+      "url": "http://localhost:5504/articles/the-rise-of-subscription-services-origins-economics-and-predictions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-shifting-ai-architecture-gh200-superchip-ai-infrastructure/",
+      "url": "http://localhost:5504/articles/the-shifting-ai-architecture-gh200-superchip-ai-infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/the-top-2022-cybersecurity-trends-in-banking-and-finance/",
+      "url": "http://localhost:5504/articles/the-top-2022-cybersecurity-trends-in-banking-and-finance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/these-are-the-most-essential-remote-work-tools/",
+      "url": "http://localhost:5504/articles/these-are-the-most-essential-remote-work-tools/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/top-10-ai-servers-at-uvation-leading-the-future-of-artificial-intelligence-solutions/",
+      "url": "http://localhost:5504/articles/top-10-ai-servers-at-uvation-leading-the-future-of-artificial-intelligence-solutions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/top-ai-servers-on-uvation-marketplace-powering-the-future-of-ai/",
+      "url": "http://localhost:5504/articles/top-ai-servers-on-uvation-marketplace-powering-the-future-of-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/top-gpus-for-high-performance-computing-in-business/",
+      "url": "http://localhost:5504/articles/top-gpus-for-high-performance-computing-in-business/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/top-rated-ai-servers-on-the-uvation-marketplace/",
+      "url": "http://localhost:5504/articles/top-rated-ai-servers-on-the-uvation-marketplace/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/training-fine-tuning-on-nvidia-h200-from-blank-slate-to-business-value/",
+      "url": "http://localhost:5504/articles/training-fine-tuning-on-nvidia-h200-from-blank-slate-to-business-value/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/transform-your-business-with-uvations-devops-and-webops-solutions/",
+      "url": "http://localhost:5504/articles/transform-your-business-with-uvations-devops-and-webops-solutions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/transform-your-it-infrastructure-with-powerflex-solutions-from-uvation/",
+      "url": "http://localhost:5504/articles/transform-your-it-infrastructure-with-powerflex-solutions-from-uvation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/transform-your-it-landscape-with-vmware-a-comprehensive-guide/",
+      "url": "http://localhost:5504/articles/transform-your-it-landscape-with-vmware-a-comprehensive-guide/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/undefined/",
+      "url": "http://localhost:5504/articles/undefined/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 63
+    },
+    {
+      "path": "/articles/understanding-enterprise-ssd-top-choices-and-recommendations/",
+      "url": "http://localhost:5504/articles/understanding-enterprise-ssd-top-choices-and-recommendations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/understanding-the-different-types-of-cloud-environments/",
+      "url": "http://localhost:5504/articles/understanding-the-different-types-of-cloud-environments/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unlock-enterprise-ai-with-nvidia-ai-enterprise-subscription/",
+      "url": "http://localhost:5504/articles/unlock-enterprise-ai-with-nvidia-ai-enterprise-subscription/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unlock-peak-performance-the-power-of-bare-metal-cloud-for-your-business/",
+      "url": "http://localhost:5504/articles/unlock-peak-performance-the-power-of-bare-metal-cloud-for-your-business/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unlocking-high%e2%80%91performance-ai-networking-with-nvidia-mofed-and-h200/",
+      "url": "http://localhost:5504/articles/unlocking-high%e2%80%91performance-ai-networking-with-nvidia-mofed-and-h200/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unlocking-high‑performance-ai-networking-with-nvidia-mofed-and-h200/",
+      "url": "http://localhost:5504/articles/unlocking-high‑performance-ai-networking-with-nvidia-mofed-and-h200/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unlocking-the-business-potential-of-quantum-computing/",
+      "url": "http://localhost:5504/articles/unlocking-the-business-potential-of-quantum-computing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unlocking-the-power-of-nvidia-networking-software-tools-for-ai-and-hpc/",
+      "url": "http://localhost:5504/articles/unlocking-the-power-of-nvidia-networking-software-tools-for-ai-and-hpc/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unlocking-ultra-fast-gpu-communication-with-nvidia-nvlink-nvlink-switch/",
+      "url": "http://localhost:5504/articles/unlocking-ultra-fast-gpu-communication-with-nvidia-nvlink-nvlink-switch/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unveiling-its-hidden-treasures-exploring-uvation-marketplaces-2/",
+      "url": "http://localhost:5504/articles/unveiling-its-hidden-treasures-exploring-uvation-marketplaces-2/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/unveiling-its-hidden-treasures-exploring-uvation-marketplaces/",
+      "url": "http://localhost:5504/articles/unveiling-its-hidden-treasures-exploring-uvation-marketplaces/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/upgrade-your-storage-transform-your-business-the-ssd-advantage/",
+      "url": "http://localhost:5504/articles/upgrade-your-storage-transform-your-business-the-ssd-advantage/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/user-driven-security-practices-for-nvidia-dgx-h100-h200-deployment/",
+      "url": "http://localhost:5504/articles/user-driven-security-practices-for-nvidia-dgx-h100-h200-deployment/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/uvation-leading-the-evolution-of-it-support-from-fixers-to-strategic-allies/",
+      "url": "http://localhost:5504/articles/uvation-leading-the-evolution-of-it-support-from-fixers-to-strategic-allies/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/uvation-leads-the-way-transforming-it-infrastructure-from-cloud-to-edge/",
+      "url": "http://localhost:5504/articles/uvation-leads-the-way-transforming-it-infrastructure-from-cloud-to-edge/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/uvation-marketplace-top-picks-trending-dell-laptops/",
+      "url": "http://localhost:5504/articles/uvation-marketplace-top-picks-trending-dell-laptops/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/uvation-pioneering-solutions-for-telehealth-hurdles/",
+      "url": "http://localhost:5504/articles/uvation-pioneering-solutions-for-telehealth-hurdles/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/uvation-sheds-light-on-emerging-trends-in-the-ai-server-industry-for-2025/",
+      "url": "http://localhost:5504/articles/uvation-sheds-light-on-emerging-trends-in-the-ai-server-industry-for-2025/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/uvation-your-one-stop-solution-for-business-boosting-managed-it-services/",
+      "url": "http://localhost:5504/articles/uvation-your-one-stop-solution-for-business-boosting-managed-it-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/uvations-game-changing-solutions-to-secure-your-digital-frontier/",
+      "url": "http://localhost:5504/articles/uvations-game-changing-solutions-to-secure-your-digital-frontier/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/vram-in-large-language-models-optimizing-with-nvidia-h100-vram-gpus/",
+      "url": "http://localhost:5504/articles/vram-in-large-language-models-optimizing-with-nvidia-h100-vram-gpus/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/what-does-the-data-center-of-the-future-look-like/",
+      "url": "http://localhost:5504/articles/what-does-the-data-center-of-the-future-look-like/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/what-gartners-2022-security-risk-predictions-mean-for-your-business/",
+      "url": "http://localhost:5504/articles/what-gartners-2022-security-risk-predictions-mean-for-your-business/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/what-infrastructure-and-analytics-capabilities-do-companies-need-to-support-ai/",
+      "url": "http://localhost:5504/articles/what-infrastructure-and-analytics-capabilities-do-companies-need-to-support-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/what-is-a-penetration-test-and-why-does-your-company-need-one/",
+      "url": "http://localhost:5504/articles/what-is-a-penetration-test-and-why-does-your-company-need-one/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/what-to-expect-from-industrial-applications-of-humanoid-robotics/",
+      "url": "http://localhost:5504/articles/what-to-expect-from-industrial-applications-of-humanoid-robotics/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/where-youll-start-seeing-the-h200-without-even-knowing-it/",
+      "url": "http://localhost:5504/articles/where-youll-start-seeing-the-h200-without-even-knowing-it/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-ai-server-cost-per-user-is-the-new-metric-that-matters/",
+      "url": "http://localhost:5504/articles/why-ai-server-cost-per-user-is-the-new-metric-that-matters/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-businesses-are-shifting-away-from-traditional-data-centers/",
+      "url": "http://localhost:5504/articles/why-businesses-are-shifting-away-from-traditional-data-centers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-genai-deployment-needs-a-strategy-not-just-hardware/",
+      "url": "http://localhost:5504/articles/why-genai-deployment-needs-a-strategy-not-just-hardware/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-human-error-is-your-companys-biggest-cybersecurity-threat-and-what-to-do-about-it/",
+      "url": "http://localhost:5504/articles/why-human-error-is-your-companys-biggest-cybersecurity-threat-and-what-to-do-about-it/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-hybrid-cloud-is-the-digital-future-for-so-many-organizations/",
+      "url": "http://localhost:5504/articles/why-hybrid-cloud-is-the-digital-future-for-so-many-organizations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-is-the-nvidia-h200-a-game-changer-for-data-centers/",
+      "url": "http://localhost:5504/articles/why-is-the-nvidia-h200-a-game-changer-for-data-centers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-llama2-70b-runs-better-on-h200/",
+      "url": "http://localhost:5504/articles/why-llama2-70b-runs-better-on-h200/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-nvidia-h200-and-nccl-are-reshaping-ai-training-efficiency-at-scale/",
+      "url": "http://localhost:5504/articles/why-nvidia-h200-and-nccl-are-reshaping-ai-training-efficiency-at-scale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-the-nvidia-h200-is-the-backbone-of-next-gen-enterprise-ai/",
+      "url": "http://localhost:5504/articles/why-the-nvidia-h200-is-the-backbone-of-next-gen-enterprise-ai/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/articles/why-trust-is-so-important-in-todays-corporate-world/",
+      "url": "http://localhost:5504/articles/why-trust-is-so-important-in-todays-corporate-world/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/artificial-intelligence/",
+      "url": "http://localhost:5504/artificial-intelligence/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/business-resiliency/",
+      "url": "http://localhost:5504/business-resiliency/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/career-faqs/",
+      "url": "http://localhost:5504/career-faqs/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/career-life/",
+      "url": "http://localhost:5504/career-life/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 74
+    },
+    {
+      "path": "/career-opportunities/",
+      "url": "http://localhost:5504/career-opportunities/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 72
+    },
+    {
+      "path": "/careers/",
+      "url": "http://localhost:5504/careers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 69
+    },
+    {
+      "path": "/casestudies/",
+      "url": "http://localhost:5504/casestudies/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/casestudies/beloved-global-b2c-company-excels-with-b2b-sales-thanks-to-uvations-automated-customer-portal/",
+      "url": "http://localhost:5504/casestudies/beloved-global-b2c-company-excels-with-b2b-sales-thanks-to-uvations-automated-customer-portal/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/building-cybersecurity-sophistication-and-resilience-for-modern-financial-firms/",
+      "url": "http://localhost:5504/casestudies/building-cybersecurity-sophistication-and-resilience-for-modern-financial-firms/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/how-uvation-uses-machine-learning-in-cyber-security-to-power-the-next-generation-of-enterprise-protection/",
+      "url": "http://localhost:5504/casestudies/how-uvation-uses-machine-learning-in-cyber-security-to-power-the-next-generation-of-enterprise-protection/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/leading-global-cosmetics-brand-launches-online-shopping-cart-for-brand-website/",
+      "url": "http://localhost:5504/casestudies/leading-global-cosmetics-brand-launches-online-shopping-cart-for-brand-website/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/leading-global-finance-company-optimizes-customer-experience-with-streamlined-data-capabilities/",
+      "url": "http://localhost:5504/casestudies/leading-global-finance-company-optimizes-customer-experience-with-streamlined-data-capabilities/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-builds-internal-private-cloud-for-leading-global-bank/",
+      "url": "http://localhost:5504/casestudies/uvation-builds-internal-private-cloud-for-leading-global-bank/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-defends-communication-networks-from-cyber-attacks/",
+      "url": "http://localhost:5504/casestudies/uvation-defends-communication-networks-from-cyber-attacks/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-delivers-full-spectrum-operational-services-for-major-automotive-manufacturer/",
+      "url": "http://localhost:5504/casestudies/uvation-delivers-full-spectrum-operational-services-for-major-automotive-manufacturer/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-deploys-infrastructure-and-cloud-services-for-large-professional-services-firm-2/",
+      "url": "http://localhost:5504/casestudies/uvation-deploys-infrastructure-and-cloud-services-for-large-professional-services-firm-2/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-deploys-security-stack-secops-as-a-service-for-mass-media-company/",
+      "url": "http://localhost:5504/casestudies/uvation-deploys-security-stack-secops-as-a-service-for-mass-media-company/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-designs-e-pricing-application-for-global-commercial-cleaning-solution-provider/",
+      "url": "http://localhost:5504/casestudies/uvation-designs-e-pricing-application-for-global-commercial-cleaning-solution-provider/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-enhances-professional-services-firms-cybersecurity-protection/",
+      "url": "http://localhost:5504/casestudies/uvation-enhances-professional-services-firms-cybersecurity-protection/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-helps-law-firms-develop-disaster-recovery-plans/",
+      "url": "http://localhost:5504/casestudies/uvation-helps-law-firms-develop-disaster-recovery-plans/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-helps-life-sciences-and-biotech-firms-safeguard-the-future/",
+      "url": "http://localhost:5504/casestudies/uvation-helps-life-sciences-and-biotech-firms-safeguard-the-future/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-helps-manufacturers-scale-their-data-center-operations/",
+      "url": "http://localhost:5504/casestudies/uvation-helps-manufacturers-scale-their-data-center-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-helps-protect-law-firms-from-cyberattacks/",
+      "url": "http://localhost:5504/casestudies/uvation-helps-protect-law-firms-from-cyberattacks/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-helps-the-public-sector-with-critical-it-services/",
+      "url": "http://localhost:5504/casestudies/uvation-helps-the-public-sector-with-critical-it-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-implements-cybersecurity-solutions-in-the-retail-industry/",
+      "url": "http://localhost:5504/casestudies/uvation-implements-cybersecurity-solutions-in-the-retail-industry/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-implements-microsoft-office-365-for-major-university/",
+      "url": "http://localhost:5504/casestudies/uvation-implements-microsoft-office-365-for-major-university/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-implements-state-of-the-art-security-solutions-for-defense-contractors/",
+      "url": "http://localhost:5504/casestudies/uvation-implements-state-of-the-art-security-solutions-for-defense-contractors/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-launches-custom-virtual-desktop-infrastructure-for-leading-defense-and-aerospace-manufacturer/",
+      "url": "http://localhost:5504/casestudies/uvation-launches-custom-virtual-desktop-infrastructure-for-leading-defense-and-aerospace-manufacturer/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-launches-robust-customer-engagement-and-location-based-marketing-capabilities-for-leading-regional-retail-brand/",
+      "url": "http://localhost:5504/casestudies/uvation-launches-robust-customer-engagement-and-location-based-marketing-capabilities-for-leading-regional-retail-brand/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-lends-cybersecurity-expertise-to-electronics-companies/",
+      "url": "http://localhost:5504/casestudies/uvation-lends-cybersecurity-expertise-to-electronics-companies/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-meets-high-cybersecurity-standards-in-government/",
+      "url": "http://localhost:5504/casestudies/uvation-meets-high-cybersecurity-standards-in-government/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-partners-with-financial-services-firms-to-protect-their-data-and-assets/",
+      "url": "http://localhost:5504/casestudies/uvation-partners-with-financial-services-firms-to-protect-their-data-and-assets/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-prepares-the-energy-sector-for-an-increase-in-cyber-threats/",
+      "url": "http://localhost:5504/casestudies/uvation-prepares-the-energy-sector-for-an-increase-in-cyber-threats/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-protects-banks-and-credit-unions-from-cyber-threats/",
+      "url": "http://localhost:5504/casestudies/uvation-protects-banks-and-credit-unions-from-cyber-threats/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-protects-critical-infrastructure-companies-from-cyber-threats/",
+      "url": "http://localhost:5504/casestudies/uvation-protects-critical-infrastructure-companies-from-cyber-threats/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-protects-healthcare-organizations-from-cyberattacks/",
+      "url": "http://localhost:5504/casestudies/uvation-protects-healthcare-organizations-from-cyberattacks/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-provides-comprehensive-managed-services-to-the-nonprofit-sector/",
+      "url": "http://localhost:5504/casestudies/uvation-provides-comprehensive-managed-services-to-the-nonprofit-sector/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-provides-comprehensive-technology-services-to-local-architectural-engineering-firm/",
+      "url": "http://localhost:5504/casestudies/uvation-provides-comprehensive-technology-services-to-local-architectural-engineering-firm/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-provides-for-the-rigorous-cybersecurity-needs-of-manufacturers/",
+      "url": "http://localhost:5504/casestudies/uvation-provides-for-the-rigorous-cybersecurity-needs-of-manufacturers/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvation-streamlines-print-processes-for-leading-health-center-with-custom-intranet-application/",
+      "url": "http://localhost:5504/casestudies/uvation-streamlines-print-processes-for-leading-health-center-with-custom-intranet-application/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/casestudies/uvations-managed-cybersecurity-services-help-organizations-protect-against-evolving-threats/",
+      "url": "http://localhost:5504/casestudies/uvations-managed-cybersecurity-services-help-organizations-protect-against-evolving-threats/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/cloud/",
+      "url": "http://localhost:5504/cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/community-outreach/",
+      "url": "http://localhost:5504/community-outreach/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 59
+    },
+    {
+      "path": "/company-culture/",
+      "url": "http://localhost:5504/company-culture/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 71
+    },
+    {
+      "path": "/contact/",
+      "url": "http://localhost:5504/contact/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/cybersecurity/",
+      "url": "http://localhost:5504/cybersecurity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 65
+    },
+    {
+      "path": "/data-center/",
+      "url": "http://localhost:5504/data-center/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/devops/",
+      "url": "http://localhost:5504/devops/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 64
+    },
+    {
+      "path": "/digital/",
+      "url": "http://localhost:5504/digital/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/edge-computing/",
+      "url": "http://localhost:5504/edge-computing/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/employee-benefits/",
+      "url": "http://localhost:5504/employee-benefits/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 71
+    },
+    {
+      "path": "/esg/",
+      "url": "http://localhost:5504/esg/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/ethics/",
+      "url": "http://localhost:5504/ethics/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/events/",
+      "url": "http://localhost:5504/events/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 61
+    },
+    {
+      "path": "/events/techcrunch-disrupt-2025/",
+      "url": "http://localhost:5504/events/techcrunch-disrupt-2025/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/events/undefined/",
+      "url": "http://localhost:5504/events/undefined/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/false/",
+      "url": "http://localhost:5504/false/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 57
+    },
+    {
+      "path": "/focus-areas/",
+      "url": "http://localhost:5504/focus-areas/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/gdpr/",
+      "url": "http://localhost:5504/gdpr/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 63
+    },
+    {
+      "path": "/incident/",
+      "url": "http://localhost:5504/incident/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/inclusion/",
+      "url": "http://localhost:5504/inclusion/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/industries/",
+      "url": "http://localhost:5504/industries/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 79
+    },
+    {
+      "path": "/infoit/",
+      "url": "http://localhost:5504/infoit/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/infrastructure/",
+      "url": "http://localhost:5504/infrastructure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 72
+    },
+    {
+      "path": "/innovation/",
+      "url": "http://localhost:5504/innovation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 71
+    },
+    {
+      "path": "/investers-relation/",
+      "url": "http://localhost:5504/investers-relation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 59
+    },
+    {
+      "path": "/iot/",
+      "url": "http://localhost:5504/iot/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/managed-it/",
+      "url": "http://localhost:5504/managed-it/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/managed-security/",
+      "url": "http://localhost:5504/managed-security/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/mission/",
+      "url": "http://localhost:5504/mission/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 68
+    },
+    {
+      "path": "/partnership/",
+      "url": "http://localhost:5504/partnership/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/people-uvation/",
+      "url": "http://localhost:5504/people-uvation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/people-uvation/anupam-prakash/",
+      "url": "http://localhost:5504/people-uvation/anupam-prakash/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/people-uvation/darren-schnabel/",
+      "url": "http://localhost:5504/people-uvation/darren-schnabel/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/people-uvation/farhat-quadiri/",
+      "url": "http://localhost:5504/people-uvation/farhat-quadiri/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/people-uvation/green-singh/",
+      "url": "http://localhost:5504/people-uvation/green-singh/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/people-uvation/harjinder-s-wazir/",
+      "url": "http://localhost:5504/people-uvation/harjinder-s-wazir/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/people-uvation/reen-singh/",
+      "url": "http://localhost:5504/people-uvation/reen-singh/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/people-uvation/shashi-k-prasad/",
+      "url": "http://localhost:5504/people-uvation/shashi-k-prasad/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 54
+    },
+    {
+      "path": "/private-public/",
+      "url": "http://localhost:5504/private-public/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/product-and-services/ai-foundry/",
+      "url": "http://localhost:5504/product-and-services/ai-foundry/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 69
+    },
+    {
+      "path": "/product-and-services/amazon-aws/",
+      "url": "http://localhost:5504/product-and-services/amazon-aws/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/azure-stack/",
+      "url": "http://localhost:5504/product-and-services/azure-stack/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/backup-services/",
+      "url": "http://localhost:5504/product-and-services/backup-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/baremetal/",
+      "url": "http://localhost:5504/product-and-services/baremetal/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/connectivity/",
+      "url": "http://localhost:5504/product-and-services/connectivity/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/datacenter/",
+      "url": "http://localhost:5504/product-and-services/datacenter/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/disaster-recovery/",
+      "url": "http://localhost:5504/product-and-services/disaster-recovery/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/google-cloud/",
+      "url": "http://localhost:5504/product-and-services/google-cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/ibm-cloud/",
+      "url": "http://localhost:5504/product-and-services/ibm-cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/managed-advisory-operations/",
+      "url": "http://localhost:5504/product-and-services/managed-advisory-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/managed-cloud-operations/",
+      "url": "http://localhost:5504/product-and-services/managed-cloud-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/managed-datacenter-operations/",
+      "url": "http://localhost:5504/product-and-services/managed-datacenter-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/managed-it-operations/",
+      "url": "http://localhost:5504/product-and-services/managed-it-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/managed-ml-ai-operations/",
+      "url": "http://localhost:5504/product-and-services/managed-ml-ai-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/managed-network-operations/",
+      "url": "http://localhost:5504/product-and-services/managed-network-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/managed-security-operations/",
+      "url": "http://localhost:5504/product-and-services/managed-security-operations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/microsoft-azure/",
+      "url": "http://localhost:5504/product-and-services/microsoft-azure/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/network-operation/",
+      "url": "http://localhost:5504/product-and-services/network-operation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/oracle-cloud/",
+      "url": "http://localhost:5504/product-and-services/oracle-cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/productivity-communication/",
+      "url": "http://localhost:5504/product-and-services/productivity-communication/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/redhat-openshift/",
+      "url": "http://localhost:5504/product-and-services/redhat-openshift/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/secure-wifi/",
+      "url": "http://localhost:5504/product-and-services/secure-wifi/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/security-operation/",
+      "url": "http://localhost:5504/product-and-services/security-operation/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/storage-service/",
+      "url": "http://localhost:5504/product-and-services/storage-service/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/product-and-services/vmware/",
+      "url": "http://localhost:5504/product-and-services/vmware/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/public-sector/",
+      "url": "http://localhost:5504/public-sector/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/remotework/",
+      "url": "http://localhost:5504/remotework/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 68
+    },
+    {
+      "path": "/research-and-development/",
+      "url": "http://localhost:5504/research-and-development/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/resiliency-cloud/",
+      "url": "http://localhost:5504/resiliency-cloud/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/rewards/",
+      "url": "http://localhost:5504/rewards/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/rewards/donations/",
+      "url": "http://localhost:5504/rewards/donations/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/rewards/earn/",
+      "url": "http://localhost:5504/rewards/earn/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/rewards/faqs-and-terms/",
+      "url": "http://localhost:5504/rewards/faqs-and-terms/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/rewards/promotions/",
+      "url": "http://localhost:5504/rewards/promotions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 70
+    },
+    {
+      "path": "/rewards/redeem/",
+      "url": "http://localhost:5504/rewards/redeem/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 75
+    },
+    {
+      "path": "/sla-and-terms/",
+      "url": "http://localhost:5504/sla-and-terms/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 60
+    },
+    {
+      "path": "/sla-and-terms/acceptable-use-policy/",
+      "url": "http://localhost:5504/sla-and-terms/acceptable-use-policy/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/ccpa/",
+      "url": "http://localhost:5504/sla-and-terms/ccpa/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/commercial-terms-of-sale/",
+      "url": "http://localhost:5504/sla-and-terms/commercial-terms-of-sale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/compliance/",
+      "url": "http://localhost:5504/sla-and-terms/compliance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/consumer-terms-of-sale/",
+      "url": "http://localhost:5504/sla-and-terms/consumer-terms-of-sale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/cookies-ad-choices/",
+      "url": "http://localhost:5504/sla-and-terms/cookies-ad-choices/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/data-processing-addendum/",
+      "url": "http://localhost:5504/sla-and-terms/data-processing-addendum/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/dmca/",
+      "url": "http://localhost:5504/sla-and-terms/dmca/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/export-compliance-policy/",
+      "url": "http://localhost:5504/sla-and-terms/export-compliance-policy/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/gdpr/",
+      "url": "http://localhost:5504/sla-and-terms/gdpr/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/privacy/",
+      "url": "http://localhost:5504/sla-and-terms/privacy/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/reseller-terms-of-sale/",
+      "url": "http://localhost:5504/sla-and-terms/reseller-terms-of-sale/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/return-policy/",
+      "url": "http://localhost:5504/sla-and-terms/return-policy/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/shipping-policy/",
+      "url": "http://localhost:5504/sla-and-terms/shipping-policy/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/terms-of-sale-and-conditions/",
+      "url": "http://localhost:5504/sla-and-terms/terms-of-sale-and-conditions/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/terms-of-service-uvation-rewards-program/",
+      "url": "http://localhost:5504/sla-and-terms/terms-of-service-uvation-rewards-program/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/terms-of-use/",
+      "url": "http://localhost:5504/sla-and-terms/terms-of-use/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/trademarks-intellectual-property/",
+      "url": "http://localhost:5504/sla-and-terms/trademarks-intellectual-property/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/sla-and-terms/warranty-policy/",
+      "url": "http://localhost:5504/sla-and-terms/warranty-policy/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/soc/",
+      "url": "http://localhost:5504/soc/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/social-impact/",
+      "url": "http://localhost:5504/social-impact/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 56
+    },
+    {
+      "path": "/technology-services/",
+      "url": "http://localhost:5504/technology-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 68
+    },
+    {
+      "path": "/transformation-and-modernization/",
+      "url": "http://localhost:5504/transformation-and-modernization/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/undefined/",
+      "url": "http://localhost:5504/undefined/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 57
+    },
+    {
+      "path": "/under-maintainance/",
+      "url": "http://localhost:5504/under-maintainance/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 59
+    },
+    {
+      "path": "/uvation-values/",
+      "url": "http://localhost:5504/uvation-values/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/uvationorg/",
+      "url": "http://localhost:5504/uvationorg/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 66
+    },
+    {
+      "path": "/web-services/",
+      "url": "http://localhost:5504/web-services/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    },
+    {
+      "path": "/workforce/",
+      "url": "http://localhost:5504/workforce/",
+      "status": 200,
+      "ok": true,
+      "missing_resources": [],
+      "external_ignored": 1,
+      "checked_resources": 62
+    }
+  ]
+}
