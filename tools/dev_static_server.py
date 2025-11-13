@@ -8,7 +8,7 @@ import urllib.parse
 import urllib.request
 
 # Base directory to serve
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "sites", "uvation.com", "public"))
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "public"))
 
 INJECTION_SNIPPET = """
 <script>(function(){try{
